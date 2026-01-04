@@ -1,4 +1,4 @@
-# Dashboard de Vendas, Custo, Margem de Lucro e KPI - Power BI 
+# Dashboard de Vendas, Custo, Margem de Lucro e KPI - Power BI  
 
 Este repositório contém um dashboard interativo desenvolvido no Power BI, focado na análise de métricas de vendas globais, custos de envio, margens de lucro e indicadores-chave de desempenho (KPIs). O objetivo é fornecer insights estratégicos para otimizar recursos, melhorar a lucratividade e monitorar o desempenho das vendas.
 
